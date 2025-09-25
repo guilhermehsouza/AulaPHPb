@@ -16,7 +16,7 @@
             <input type="text" name="cliente">
         </p>
 
-        <p>
+        <p>  
             Escolha o sexo do cliente <br>
             <input type="radio" name="sexo" value="Feminino"> Feminino <br>
             <input type="radio" name="sexo" value="Masculino">Masculino
@@ -28,7 +28,7 @@
         </p>
 
         <p>
-            <input type="submit" value="Enviar">
+            <input type="submit" value="Enviggar">
         </p>
 
     </form>
